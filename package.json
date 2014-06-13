@@ -1,0 +1,42 @@
+{
+  "name": "mapfile",
+  "version": "0.0.1",
+  "description": "MapFile TileSource and TileSink for tilelive",
+  "main": "mapfile.js",
+  "scripts": {
+    "test": "mocha test/ampfile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pagameba/mapfile"
+  },
+  "author": {
+    "name": "Paul Spencer"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "better-assert": "~1.0.0",
+    "mocha": "~1.9.0",
+    "uuid": "~1.4.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "tilelive"
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/pagameba/mapfile/issues"
+  },
+  "homepage": "https://github.com/pagameba/mapfile",
+  "_id": "mapfile@0.0.1",
+  "dist": {
+    "shasum": "09a77632d8a20721aa1a22dff70dc5e6e78026c9"
+  },
+  "_resolved": "git://github.com/pagameba/mapfile.git#1bc1772a26ff9ecb9f99140e0c1b8ac138a16a55",
+  "_from": "mapfile@git://github.com/pagameba/mapfile.git#1bc1772a26ff9ecb9f99140e0c1b8ac138a16a55"
+}
